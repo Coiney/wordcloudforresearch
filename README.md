@@ -1,5 +1,5 @@
 # wordcloudforresearch
 script  for analys insight research
-# librarys
+# libraries
 pip install matplotlib  
 pip install wordcloud
